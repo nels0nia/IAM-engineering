@@ -1,0 +1,8 @@
+flowchart LR
+    HR[HR system / source data] --> IAM[IAM validation and approval]
+    IAM --> DIR[Directory / identity provider]
+    IAM --> APP[Business applications]
+    USER[Employee or contractor] --> IDP[Authentication]
+    IDP --> APP
+    APP --> AUTHZ[Authorization check: role and entitlement]
+    AUTHZ --> LOG[Audit and access evidence]

@@ -1,0 +1,7 @@
+role_id,role_name,department,entitlement,access_risk
+R-FIN-READ,Finance Read Only,Finance,ERP:Read,Low
+R-FIN-APPROVE,Finance Payment Approver,Finance,ERP:ApprovePayments,High
+R-HR-READ,HR Records Reader,HR,HRIS:Read,High
+R-IT-RESET,IT Helpdesk Password Reset,IT,Directory:PasswordReset,High
+R-MKT-READ,Marketing CRM Reader,Marketing,CRM:Read,Low
+R-EXEC-REPORT,Executive Reporting,Executive,BI:ReadExecutiveReports,Medium

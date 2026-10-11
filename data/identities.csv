@@ -1,0 +1,12 @@
+identity_id,display_name,department,job_title,employment_type,status,manager_id,start_date,end_date
+U1001,Nia Okello,Finance,Finance Analyst,Employee,Active,U9001,2025-04-01,
+U1002,Daniel Mwangi,Finance,Finance Analyst,Employee,Active,U9001,2025-08-15,
+U1003,Asha Wanjiru,HR,HR Specialist,Employee,Active,U9002,2024-11-04,
+U1004,Brian Otieno,IT,IT Support Analyst,Employee,Active,U9003,2025-02-10,
+U1005,Miriam Kamau,Marketing,Marketing Associate,Employee,Terminated,U9004,2024-03-18,2026-09-30
+U1006,Kevin Maina,Finance,Finance Contractor,Contractor,Active,U9001,2025-10-01,2026-06-30
+U9001,Esther Wambui,Finance,Finance Manager,Employee,Active,U9005,2022-02-01,
+U9002,Joseph Ouma,HR,HR Manager,Employee,Active,U9005,2021-05-12,
+U9003,Peter Kariuki,IT,IT Manager,Employee,Active,U9005,2020-08-03,
+U9004,Grace Njeri,Marketing,Marketing Manager,Employee,Active,U9005,2022-06-20,
+U9005,Samuel Kiptoo,Executive,Operations Director,Employee,Active,,2019-01-07,
